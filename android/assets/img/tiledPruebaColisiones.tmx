@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="50" height="50" tilewidth="16" tileheight="16" nextobjectid="10">
+ <tileset firstgid="1" name="Tilesheet" tilewidth="16" tileheight="16" spacing="1" margin="1">
+  <image source="tileset.png" width="512" height="512"/>
+ </tileset>
+ <layer name="Capa de Patrones 1" width="50" height="50">
+  <data encoding="base64" compression="zlib">
+   eJztwwEJAAAMA6A9z/r3W46Dgr2kqqqqqqqqqqqq+vwAui+twA==
+  </data>
+ </layer>
+ <objectgroup name="Colisiones">
+  <object id="1" x="81" y="178" width="60" height="76"/>
+  <object id="4" x="434" y="144" width="60" height="79"/>
+  <object id="5" x="318" y="270" width="68" height="79"/>
+  <object id="6" x="646" y="379" width="56" height="87"/>
+  <object id="8" x="246" y="640" width="51" height="81"/>
+  <object id="9" x="577" y="675" width="60" height="78"/>
+ </objectgroup>
+ <layer name="Objetos" width="50" height="50">
+  <data encoding="base64" compression="zlib">
+   eJzt19sNwkAMRFFr0wWEPgL0kUAfCTTPa2qINF5L3CPN7z68kleOAAAAGV4t4q18lG/rfZr9DkPEURmV0+Dfz1W3SWc/KxflmnAPV91mrbUoN+WecA9X3VattSkP5Zlwj+y6uWTXDT78EbVk/xEu9DogD328Fvp4LfRxAADwT5gNanHMBj3e2DEb9Hhjx2zA/FcL8x8q+QHXUzRF
+  </data>
+ </layer>
+</map>

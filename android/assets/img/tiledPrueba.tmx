@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="50" height="50" tilewidth="32" tileheight="32" nextobjectid="5">
+ <tileset firstgid="1" name="tileset" tilewidth="32" tileheight="32">
+  <image source="tileset.png" width="512" height="512"/>
+  <tile id="201">
+   <properties>
+    <property name="bloqueado" value=""/>
+   </properties>
+  </tile>
+  <tile id="202">
+   <properties>
+    <property name="bloqueado" value=""/>
+   </properties>
+  </tile>
+  <tile id="217">
+   <properties>
+    <property name="bloqueado" value=""/>
+   </properties>
+  </tile>
+  <tile id="218">
+   <properties>
+    <property name="bloqueado" value=""/>
+   </properties>
+  </tile>
+  <tile id="233">
+   <properties>
+    <property name="bloqueado" value=""/>
+   </properties>
+  </tile>
+  <tile id="234">
+   <properties>
+    <property name="bloqueado" value=""/>
+   </properties>
+  </tile>
+  <tile id="249">
+   <properties>
+    <property name="bloqueado" value=""/>
+   </properties>
+  </tile>
+  <tile id="250">
+   <properties>
+    <property name="bloqueado" value=""/>
+   </properties>
+  </tile>
+ </tileset>
+ <layer name="Fondo" width="50" height="50">
+  <data encoding="base64" compression="zlib">
+   eJztwwEJAAAMBKGL+v1TLMdAwVVTVVVVVVVVVVXV5w83nqmu
+  </data>
+ </layer>
+ <layer name="Arboles" width="50" height="50">
+  <data encoding="base64" compression="zlib">
+   eJztmNFNAzEMhrNRR7gpKRMAE1AmACYAJihMAH2tT1DJspLYzsWOI/pLvxQpL/HZn23dMaX0Cf4Cf4N/wKdJzqV7rF3BEfUGfga/gF/J3UxxHNNvLO/gD3K3/HmHzovr6+Raa2qN5cIHFn47jkWjG/AefLvtmazWmirxgWO4WBvHHfge/LDtmaxqfCwpnxONHsEH8FPj+6T55PigjHvzIc2nhI+RcUjzWeOD9qnI/UrKR2u/ysmih0nmB66tHnFY9LAaH9K60n7frT0sJ8n8oHmh8poRNXH7lSQfFt9XK+l+FX1P7MFHBHHzg87AqHFo9qsS5xJZ772a/WpLHNqepo2b268oI61xaHuaNm5uftBcePUrbdxefFhLul9F77s1PmZSjY+ZVOODyuvfR4tqfFBF2GtL0vARYa8t6T/y0UNWjGn46CErxrznhxVjs/DB1aM3H63i6tGbj1Zx9Xjdr2JpFj44WfHhvVNa8eG9U1rx4b1TjuajV/2Nnh+96m/0/OhVf9f5EUuj+eglygfOTeRzytxhPnBuIp9T5u4M896BNg==
+  </data>
+ </layer>
+</map>
